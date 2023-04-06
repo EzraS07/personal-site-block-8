@@ -1,0 +1,28 @@
+html{
+    background-color: white;
+}
+
+h2{
+    background-color: midnightblue;
+    color: white;
+}
+
+h3{
+    background-color: slategray;
+    width: 150px;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+a{
+    color: slateblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+Img{
+    border: 5px black solid;
+}
